@@ -1,0 +1,25 @@
+fibonacci sequence
+0 1 1 2 3 5 8 13 21 34
+
+a b c a b c a b c a b c   
+-1 1 0     
+0 1 1
+1 1 2
+1 2 3
+2 3 5
+3 5 8
+
+b = b+a
+c = b+a
+d = c+b
+c = -1
+-1+1 = 0
+0+1 = 1
+
+b = 1
+b = a + 0
+c = b + a
+ n=3
+ a=01
+ b =12
+ c = 012 123
